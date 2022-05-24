@@ -1,5 +1,5 @@
 
-### 个人信息
+### Info
 ```
 name：Sven
 eamil：swq1227@gmail.com
