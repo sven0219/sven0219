@@ -15,10 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config sven0219 github-actions
-          git config swq1227@gmail.com github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
+      - name: Auto commit
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: profile image generated
