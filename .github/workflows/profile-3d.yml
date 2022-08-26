@@ -11,13 +11,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Auto commit
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: profile image generated
+      - name: Commit & Push
+        run: |
+          git config sven github-actions
+          git config swq1227@gmail.com github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
