@@ -6,4 +6,6 @@ Blog: https://www.svenshen.com
 ```
 
 # Contributions
+> Update every day
+
 ![](profile-3d-contrib/profile-green-animate.svg)
