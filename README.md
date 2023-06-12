@@ -2,7 +2,6 @@
 ```
 Name: Sven
 Email: hi@svenshen.com
-Blog: https://www.svenshen.com
 ```
 
 # @Sven0219 on Github 
