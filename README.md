@@ -1,6 +1,5 @@
 # About Me
 ```
-Name: Sven
 Email: hi@svenshen.com
 ```
 
