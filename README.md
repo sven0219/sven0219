@@ -7,7 +7,7 @@
 </p>
 <ul>
   <li> 🔭 I'm currently working on <a href="https://github.com/Wiredcraft"><img src="https://avatars.githubusercontent.com/u/496772?s=64&amp;v=4" alt="@Wiredcraft" size="16" height="16" width="16" data-view-component="true" class="avatar">Wiredcraft</a>.</li>
-  <li>🌱 I am currently learning AIOps and <a href="https://nixos.org/"><img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/487568?s=200&amp;v=4" width="16" height="16" alt="@NixOS">NixOS</a>.</li>
+<!--   <li>🌱 I am currently learning AIOps and <a href="https://nixos.org/"><img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/487568?s=200&amp;v=4" width="16" height="16" alt="@NixOS">NixOS</a>.</li> -->
   <li>📫 Contact me: <a href="mailto:hi@svenshen.com">hi@svenshen.com</a></li>
 </ul>
 
