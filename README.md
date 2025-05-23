@@ -17,7 +17,7 @@
 
 **DevOps Tools:** ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Harbor](https://img.shields.io/badge/-Harbor-3E8EDE?style=flat-square&logo=harbor&logoColor=white) 
 
-**CI/CD:** ![ArgoCD](https://img.shields.io/badge/-Argo-0E6F69?style=flat-square&logo=argocd&logoColor=white) ![FluxCD](https://img.shields.io/badge/-FluxCD-00BFFF?style=flat-square&logo=flux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+**CI/CD:** ![ArgoCD](https://img.shields.io/badge/-ArgoCD-0E6F69?style=flat-square&logo=argocd&logoColor=white) ![FluxCD](https://img.shields.io/badge/-FluxCD-00BFFF?style=flat-square&logo=flux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FCA121?style=flat-square&logo=gitlab&logoColor=white)
 
 **Containerization:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
