@@ -31,7 +31,7 @@
 
 **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Collaboration Tools:** ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=msteams&logoColor=white)
+**Collaboration Tools:** ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-0052CC?style=flat-square&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Teams](https://img.shields.io/badge/-Teams-6264A7?style=flat-square&logo=msteams&logoColor=white)
 
 
 
