@@ -27,7 +27,7 @@
 
 **Cloud Services:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)  ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-FF3C00?style=flat-square&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-007ADC?style=flat-square&logo=digitalocean&logoColor=white)![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
 
-**Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+**Operating Systems:** ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0) ![NixOS](https://img.shields.io/badge/-NixOS-FFFFFF?style=flat-square&logo=NixOS&logoColor=blue)
 
 **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
