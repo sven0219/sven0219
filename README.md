@@ -37,11 +37,4 @@
 
 
 
-# [@Sven](https://github.com/sven0219) on Github 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sven0219&layout=compact&theme=tokyonight" alt="Top Langs" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=sven0219&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
-  </tr>
-</table>
 
