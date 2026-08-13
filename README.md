@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/Technologies%20and%20Tools-8A2BE2">
 
-**DevOps Tools:** ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=white) ![JFrog](https://img.shields.io/badge/-JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white) ![Vault](https://img.shields.io/badge/-Vault-FFEC6E?style=flat-square&logo=vault&logoColor=000000) 
+**DevOps Tools:** ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=white) ![JFrog](https://img.shields.io/badge/-JFrog-40BE46?style=flat-square&logo=jfrog&logoColor=white) ![Vault](https://img.shields.io/badge/-Vault-FFEC6E?style=flat-square&logo=vault&logoColor=000000) ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white) 
 
 **CI/CD:** ![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white) ![FluxCD](https://img.shields.io/badge/-FluxCD-5468FF?style=flat-square&logo=flux&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/-GitLab%20CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![harness.io](https://img.shields.io/badge/-harness.io-00ADE4?style=flat-square&logo=harness&logoColor=white)
 
@@ -31,7 +31,7 @@
 
 **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Collaboration Tools:** ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Teams](https://custom-icon-badges.demolab.com/badge/Teams-6264A7?style=flat-square&logo=teams&logoColor=white)
+**Collaboration Tools:** ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) ![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Teams](https://custom-icon-badges.demolab.com/badge/Teams-6264A7?style=flat-square&logo=teams&logoColor=white)
 
 
 
